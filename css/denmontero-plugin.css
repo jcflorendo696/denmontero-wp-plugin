@@ -1,0 +1,114 @@
+.form-container{
+	background-color: #FF6E78; 
+	border-radius: 0px; 
+	font-family: 'Montserrat', sans-serif;
+	box-shadow: 0 1px 2px rgba(0,0,0,.1);
+}
+
+.valign-top{
+	vertical-align: top;
+}
+
+.package-wrap{
+	background-color: #FEF0B9; 
+	border-radius: 0px; 
+	padding: 1px;
+	box-shadow: 0 1px 2px rgba(0,0,0,.1);
+	cursor: pointer;
+}
+
+
+#NumberOfAlbums{
+	width: 100px;
+}
+
+#btnSubmit{
+	border-radius: 0px;
+	box-shadow: none;
+	border-color: #A6F2CB;
+	background-color: #A6F2CB;
+	color: #383939;
+	letter-spacing: 2px;
+	font-family: 'Montserrat', sans-serif !important;
+
+}
+
+.form-control{
+	border-radius: 0px !important;
+}
+
+div.ui-datepicker{
+	font-size: 12px;
+}
+
+/*	Plugin Backend Dashboard Styles
+------------------------------------*/
+
+.clients_table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.clients_table tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+.width_50{
+	width: 50%;
+}
+
+.bold{
+	font-weight: bold !important;
+}
+
+/**
+	Change Focus Into Red
+*/
+.form-control:focus {
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}
+
+.italicize{
+	font-style: italic;
+}
+
+.alignment{
+	text-align: right;
+}
+
+
+a.pagebuttons:link{
+	background-color: #E4E4E4;
+	padding: 0 10px 3px !important;
+	text-decoration: none;
+	margin-right: 5px;
+	color: #0074a2;
+}
+
+a.pagebutrtons:visited{
+	background-color: #E4E4E4;
+	padding: 0 10px 3px !important;
+	text-decoration: none;
+	margin-right: 5px;
+	color: #0074a2;
+}
+
+a.pagebuttons:hover{
+	background-color: #0074a2;
+	padding: 0 10px 3px !important;
+	text-decoration: none;
+	color: #fff;
+	margin-right: 5px;
+}
+
+a.pagebuttons:active{
+	background-color: #E4E4E4;
+	padding: 0 10px 3px !important;
+	text-decoration: none;
+	margin-right: 5px;
+	color: #0074a2;
+}
+
+.top-navigation{
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
